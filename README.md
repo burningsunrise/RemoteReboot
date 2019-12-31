@@ -6,12 +6,10 @@ threadpool argument.
 ## Basic usage
 
 Requirements
-`
+```
 paramiko
-
 configparser
-
 MySQLdb
-`
+```
 - [x] Edit the script add userNames and passwords where necessary (in the paramiko arguments and where paramiko writes) and change MySql calls to your own.
 - [x] Run!
